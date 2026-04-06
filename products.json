@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Double Chkn Burger",
+        "price":"₹180",
+        "image": "images/burger.png"
+    },
+    {
+        "id":2,
+        "name":"Veggie Pizza",
+        "price":"₹280",
+        "image": "images/pizza.png"
+    },
+    {
+        "id":3,
+        "name":"Fried Chicken",
+        "price":"₹220",
+        "image": "images/fried-chicken.png"
+    },
+    {
+        "id":4,
+        "name":"Chicken Roll",
+        "price":"₹100",
+        "image": "images/chicken-roll.png"
+    },
+    {
+        "id":5,
+        "name":"Sub Sandwich",
+        "price":"₹150",
+        "image": "images/sandwich.png"
+    },
+    {
+        "id":6,
+        "name":"Chicken Lasagna",
+        "price":"₹250",
+        "image": "images/lasagna.png"
+    },
+    {
+        "id":7,
+        "name":"Itallian spaghetti",
+        "price":"₹180",
+        "image": "images/spaghetti.png"
+    },
+    {
+        "id":8,
+        "name":"Spring Roll",
+        "price":"₹120",
+        "image": "images/spring-roll.png"
+    }
+]
